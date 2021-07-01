@@ -1,0 +1,21 @@
+
+p{
+color:#01DF01;
+width: 200PX;
+border: 2PX solid #0000FF
+
+}
+table {
+	width:75%;
+	border: 3px solid #FFBE33;
+
+}
+
+td{
+	padding: 1em;
+	border: 1px solid #00FFFF;
+}
+fieldset {
+	width: 50%;
+	border:3px solid blue;
+}
